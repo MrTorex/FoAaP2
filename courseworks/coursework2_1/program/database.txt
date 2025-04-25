@@ -1,0 +1,15 @@
+14
+1*Bolt*15*3*Zhelezo
+2*Gaika*78*6*Stal
+3*Perforator*15*1*Elektronika
+4*Klyuch*54*2*Stal
+5*Drel*25*5*Elektronika
+6*Otvertka*52*4*Stal
+7*Shurup*192*5*Zhelezo
+8*Nasos*75*1*Rezina
+9*Molotok*16*4*Chugun
+10*Kanistra*228*3*Plastik
+11*1*1*1*1
+12*2*2*2*2
+13*3*3*3*3
+14*4*4*4*4

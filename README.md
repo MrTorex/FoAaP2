@@ -1,4 +1,4 @@
-## FoAaP 2st semester
+## FoAaP 2nd semester
 A repository storing my labs, exam preparation materials, and a few examples of coursework from my second semester **Fundamentals of Algorithmization and Programming** course.
 
 **ISBN** of the methodology material: ***985-444-583-6***
